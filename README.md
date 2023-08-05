@@ -5,7 +5,6 @@ Este es un juego hecho en Python con la libreria Pygame. Como trabajo final para
 Alejandro Villegas Ramirez\
 Luis Fernando Bastidas Ramirez
 
-- [LinkedIn](https:/www.linkedin.com/in/alejandrovillegasramirez/)\
 - [LinkedIn](www.linkedin.com/in/alejandrovillegasramirez)
 
 ## Instalación 
