@@ -10,6 +10,9 @@ Luis Fernando Bastidas Ramirez
 ## Instalación 
 Primero pasar los archivos images y sound a la raiz del archivo del juego, despues ejecutar juego.py. (Si se presenta algún error, editar la ruta de donde se esta tomando el sonido del juego).
 
+## Web del proyecto
+[Proyecto](https://alejandrovillegasramirez.github.io/juego-con-pygame/)
+
 ## Contacto
 alejandrovillegasramirez@gmail.com\
 luis10bastidas@gmail.com
